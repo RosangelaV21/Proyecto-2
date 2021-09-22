@@ -1,0 +1,24 @@
+body{
+    background-image: url(../imagenes/mapa1.jpg);
+    background-size: 1300px;
+    background-position-x: center;
+    background-repeat: round;
+    
+    }
+    
+    
+    h1,h2{
+        text-align: center;
+    }
+    
+    h3{
+        font-size: 20px;
+    }
+    
+    p{
+    
+     text-align: left;
+     font-size: larger;
+    }
+    
+    
